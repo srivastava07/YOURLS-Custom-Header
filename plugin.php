@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: Custom SMS Header
-Plugin URI: http://example.com/
+Plugin Name: YOURLS Custom Header
+Plugin URI: https://github.com/srivastava07/YOURLS-Custom-Header/
 Description: This plugin enables the addition of a custom header to the URL, facilitating compliance with regulatory requirements in certain countries, such as India, for bulk SMS services. Pass "custom_header" in query param to add custom header as prefix to the generated short url
 Version: 1.0
 Author: Gaurav Srivastava
